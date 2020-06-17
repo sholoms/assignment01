@@ -1,0 +1,18 @@
+body{background: #333333;
+    color: white;
+    text-align: center;
+}
+h3{
+    color: orange;
+    text-transform: uppercase;
+}
+h5{
+    color: darkorange;
+}
+a{
+    color: aqua;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
